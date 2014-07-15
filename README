@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4987
+
+Simple session is a straightforward, no hassle plugin for handling named
+sessions in VIM.
+
+Just type away :Session {name} for creating new sessions or switching to
+old sessions. :SList, :SDelete and :SQuit pretty much do what they
+promise. Commands that take an argument support autocompletion.
+
+Sessions are automatically saved when VIM is closed or an old session is
+opened up.
+
+More information at http://github.com/manuel-colmenero/vim-simple-session
